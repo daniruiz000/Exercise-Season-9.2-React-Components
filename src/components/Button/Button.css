@@ -1,0 +1,22 @@
+.button{
+    min-width: 150px;
+    margin: 20px;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(0, 191, 255);
+    background-color: rgb(186, 74, 74);
+    border-radius: 20px;
+    cursor: pointer;
+}
+.button:hover{
+    min-width: 150px;
+    margin: 20px;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: 700;
+    color:  rgb(186, 74, 74);
+    background-color: rgb(0, 191, 255);
+    border-radius: 20px;
+    cursor: pointer;
+}

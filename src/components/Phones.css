@@ -1,0 +1,23 @@
+.phones{
+    width: 200px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: rgb(233, 233, 233);
+    border-radius: 20px;
+    border: 1px solid black;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.phones__title{
+    font-size: 30px;
+    color: red;
+}
+.phones__phone{
+    font-size: 20px;
+    margin: 10px;
+    color: black;
+    list-style-type: none;
+}
